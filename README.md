@@ -1,5 +1,4 @@
-Testing CI/CD Trigger sdafasgfasfsdfasvaASDASFASF
-sdsadsa
+Testing CI/CD Trigger berhasil
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
