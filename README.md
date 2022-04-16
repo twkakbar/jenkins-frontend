@@ -1,4 +1,4 @@
-Testing CI/CD Trigger sfaasgasgdasdfasf
+Testing CI/CD Trigger
 sdsadsa
 # Getting Started with Create React App
 
